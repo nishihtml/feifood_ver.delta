@@ -1,0 +1,46 @@
+gustavo 
+123 
+gabi 
+456 
+gustavo 
+123 
+gustavo 
+123 
+gustavo 
+123 
+gustavo 
+123 
+Pedido de gustavo 
+Frango Atropelado 
+Parmediana de Frango 2x19.99: 39.98 
+ 
+ 
+Total: 39.98 
+Pagamento: Debito 
+Avaliacao: NULL 
+aaa 
+aaa 
+Pedido de aaa 
+Frango Atropelado 
+Parmediana de Frango 2x19.99: 39.98 
+ 
+ 
+Total: 39.98 
+Pagamento: Debito 
+Avaliacao: NULL 
+Pedido de aaa 
+Frango Atropelado 
+ 
+Macarro Italiano 2x16.99: 33.98 
+ 
+Total: 33.98 
+Pagamento: PIX 
+Avaliacao: NULL 
+Pedido de gustavo 
+Hachi Crepe & Taiyaki 
+Crepe de Morango 2x15.99: 31.98 
+Crepe de Matcha 1x15.99: 31.9815.99: 15.99 
+ 
+Total: 47.97 
+Pagamento: Debito 
+Avaliacao: NULL 
