@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <stdlib.h>
 #include <unistd.h>
 
 #define RED     "\x1b[31m"
@@ -31,23 +30,6 @@ void main (){
 	char comprovante_final[3][255] = {"", "", ""};
 	
 	char pedido_de[255] = "Pedido de ";
-	//float comprovante[3][3][9][3];
-	
-	//restaurante
-	//prato
-	//quantidade
-	//valor
-	
-	// [usuario] : [senha]
-	
-	// Pedido de [usuario] 
-	// [restaurante] // string_1
-	// [prato] [quantidade] x [valor] [valor total] // string_2/3/4/5
-	// [prato] [quantidade] x [valor] [valor total]
-	// [prato] [quantidade] x [valor] [valor total]
-	// Total: [valor final] // string_6
-	// Pagamento: [pagamento] // string_7
-	// Avaliacao: [avaliacao] // string_8
 	
 	int restaurante;
 	int prato;
@@ -120,6 +102,8 @@ void main (){
 				if(usuario_check == 1 && senha_check == 1){
 					check = 1;
 				}
+				usuario_check = 0;
+		        senha_check = 0;
 				system("CLS");
 				break;
 				rewind(login);
@@ -665,8 +649,8 @@ void main (){
 					printf("%s \n", linha);
 					fscanf(historico, "%s", &linha);
 					printf("%s \n", linha);
-				}
-				printf("\n");
+					printf("\n");
+				}	
 			}
 			system("pause");
 			rewind(historico);

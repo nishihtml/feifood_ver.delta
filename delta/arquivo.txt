@@ -44,3 +44,33 @@ Crepe de Matcha 1x15.99: 31.9815.99: 15.99
 Total: 47.97 
 Pagamento: Debito 
 Avaliacao: NULL 
+gustavo 
+123 
+Pedido de gustavo 
+Frango Atropelado 
+Parmediana de Frango 3x19.99: 59.97 
+Macarro Italiano 2x19.99: 59.9716.99: 33.98 
+ 
+Total: 93.95 
+Pagamento: PIX 
+Avaliacao: NULL 
+nishi 
+543 
+Pedido de nishi 
+Frango Atropelado 
+Parmediana de Frango 3x19.99: 59.97Parmediana de Frango 3x19.99: 59.97Parmediana de Frango 2x19.99: 59.9719.99: 59.9719.99: 39.98 
+ 
+ 
+Total: 39.98 
+Pagamento: PIX 
+Avaliacao: NULL 
+gustavo 
+123 
+Pedido de gustavo 
+Frango Atropelado 
+Parmediana de Frango 2x19.99: 39.98 
+ 
+ 
+Total: 39.98 
+Pagamento: PIX 
+Avaliacao: NULL 
